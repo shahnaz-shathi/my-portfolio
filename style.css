@@ -1,0 +1,120 @@
+h1{
+    color: rgb(19, 10, 31);
+    font-size: 50px;
+    
+}
+span{
+    color:tomato;
+}
+
+h3{
+    color: darkblue;
+    font-size: 20px;
+    text-decoration:green;
+}
+.flexible{
+    display: flex;
+
+}
+    section{
+        padding-left: 50px;
+        margin: 0%;
+    }
+    .button-design{
+        text-decoration: none;
+        background-image: linear-gradient(orange,tomato);
+        font-size: 20px;
+        border-style: inherit;
+        padding: 5px 20px;
+        border-radius: 5px;
+        font-weight: 700;
+    }
+
+    
+
+
+    .MissionS{
+        text-align: center;
+        color: mediumvioletred;
+    }
+
+    .half-width{
+        width: 70%;
+        padding-left:10%;
+        margin: 0%;
+        border-radius: 5px;
+    }
+    #second-part{
+        
+        border-image-slice: 1;
+        
+
+   
+       
+   }
+    .half-width img{
+        width:70%;
+    }
+
+    
+
+.hr{
+    color: rgb(226, 43, 43);
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+.hr-a{
+    width: 50%;
+    margin: 0;
+    padding: 100px;
+}
+
+.one{
+margin-left: 5%;
+margin-right: 5%;;
+box-shadow: 5px 5px 5px 5px ;
+border: 7px solid rgb(226, 231, 215);
+background-repeat: no-repeat;
+background-image: linear-gradient(rgb(170, 170, 189),rgb(33, 76, 219));
+border-image-slice:1;
+padding: 10px;
+font-size:80%;
+border-radius: 10px;
+}
+
+#third{
+    padding-top: 10%;
+    padding-bottom:5%;
+    padding-right: 10%;
+    font-size: 50px;
+
+}
+#third img{
+    width:80%;
+    padding-top: 10%;
+    padding-bottom:10%;
+}
+    #fourth{
+        padding-top: 5%;
+        padding-bottom:10%;
+    font-size: 20px;
+    padding-right: 10%;
+    }
+
+    #lastone{
+    padding-left: 30%;
+    margin-right:10%;
+    
+    
+    }
+    #lastim img{
+        padding-top: 20%;
+        width:100%;
+        margin-left: 10%;
+        
+    }
+    footer{
+        background-image: linear-gradient(rgb(190, 173, 173),rgb(27, 143, 172));
+        text-align: center;
+    }
